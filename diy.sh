@@ -11,7 +11,7 @@ repo_url=(
 'https://github.com/peter-tank/luci-app-clash.git^luci-app-clash,master^c0bf3e00b1c056008f26a7d53b65ea1366cce3c4'
 'https://github.com/KFERMercer/openwrt-v2ray.git^v2ray,master^e40b105bb9b10271eb5a2528b5ff52e456626661'
 'https://github.com/trojan-gfw/openwrt-trojan.git^openwrt-trojan,master^71aeadec25a38336357ae97a5cf49728a48a10bc'
-'https://github.com/peter-tank/luci-app-ssr-plus.git^luci-app-ssr-plus,master^39493d16a64eaa8b4315b42da7dc1fe4d98ff085'
+'https://github.com/peter-tank/luci-app-ssr-plus.git^luci-app-ssr-plus,master^0428f19406105554242755ec2f95264694717ec0'
 'https://github.com/peter-tank/luci-app-dnscrypt-proxy2.git^luci-app-dnscrypt-proxy2,master^a2576965628cef451fa9a97ca9c4dd56a69a102b'
 'https://github.com/peter-tank/openwrt-autorepeater.git^luci-app-autorepeater,master^4ab5f868af2d381880a80b016b0652068c49cb5b'
 'https://github.com/pexcn/openwrt-chinadns-ng.git^chinadns-ng,master^a0f80079b465ae532596a3cd30737838c36fb9bd'
